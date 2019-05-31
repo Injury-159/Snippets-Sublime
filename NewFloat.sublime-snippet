@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+Float:
+]]></content>
+  <tabTrigger>Float:</tabTrigger>
+  <scope>source.pawn</scope>
+  <description>Add new Float</description>
+</snippet>

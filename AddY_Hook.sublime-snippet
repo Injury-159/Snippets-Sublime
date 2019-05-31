@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+#include <YSI_Coding\y_hooks>
+]]></content>
+  <tabTrigger>yhook</tabTrigger>
+  <scope>source.pawn</scope>
+  <description>Add y_hooks library</description>
+</snippet>
